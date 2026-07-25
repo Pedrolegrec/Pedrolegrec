@@ -1,6 +1,7 @@
 # Pedrolegrec Profile Repository Instructions
 
-These instructions apply to the whole `/app/dev/Pedrolegrec` repository.
+These instructions apply to the whole
+`/app/dev/public-presence/Pedrolegrec` repository.
 
 ## Role
 
@@ -20,6 +21,6 @@ small public-facing Markdown profile, not an app source repo.
 Before reporting changes complete, run:
 
 ```bash
-git -C /app/dev/Pedrolegrec diff --check
-git -C /app/dev/Pedrolegrec status --short
+git -C /app/dev/public-presence/Pedrolegrec diff --check
+git -C /app/dev/public-presence/Pedrolegrec status --short
 ```
