@@ -1,7 +1,8 @@
 # Pierre-Dominic Simard
 
-Solo dev. Small Android apps that do one thing well.
+Solo founder. Small Android apps that do one thing well, built with AI coding agents.
 
-- [Digit Span](https://play.google.com/store/apps/details?id=com.pierdo.digitspantrainer) — working memory training
-- [Dial-In](https://play.google.com/store/apps/details?id=com.pierdo.dialin) — espresso dialing
+Twelve are live on Google Play. See them all at [pierdo.net](https://pierdo.net).
+
 - [@PierDoio](https://x.com/PierDoio) on X
+- [LinkedIn](https://www.linkedin.com/in/pr-d-sim-2a8b69175/)
